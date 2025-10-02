@@ -112,9 +112,8 @@ function App() {
             Bring back cherished home videos to their full potential with
             cutting-edge AI technology. Whether it’s cherished moments from the
             past decade, favorite TV shows, this app transforms your videos into
-            crisp, high-quality versions that captivate and bring back memories
-            like never before. <br></br>
-            <br></br>Psst...Rewind can convert Modern HD videos too<br></br>
+            crisp, high-quality versions. <br></br>
+            <br></br>Psst...Rewind can convert modern HD videos too 4k too<br></br>
           </p>
           <div class="d-grid gap-2 d-sm-flex justify-content-sm-center mb-5">
             <button
