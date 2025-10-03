@@ -29,7 +29,7 @@ function App() {
               <use xlink:href="#bootstrap"></use>
             </svg>
             <span class="fs-4" style={{ color: "white" }}>
-              Rewind - AI Video Upscaler
+              Rewind - A Free AI Video Upscaler
             </span>
           </a>
           <ul class="nav nav-pills mx-2">
@@ -110,10 +110,8 @@ function App() {
         <div class="col-lg-6 mx-auto">
           <p class="lead mb-4">
             Bring back cherished home videos to their full potential with
-            cutting-edge AI technology. Whether it’s cherished moments from the
-            past decade, favorite TV shows, this app transforms your videos into
-            crisp, high-quality versions. <br></br>
-            <br></br>Psst...Rewind can convert modern HD videos too 4k too<br></br>
+            cutting-edge AI technology. <br></br>
+            <br></br>Psst...Rewind can convert modern HD videos too 4k and above too<br></br>
           </p>
           <div class="d-grid gap-2 d-sm-flex justify-content-sm-center mb-5">
             <button
@@ -197,8 +195,8 @@ function App() {
                   Video Upscaling for Ultra-High Resolutions
                 </h4>
                 <p class="text-body-secondary">
-                  Use cutting-edge AI algorithms to upscale your videos
-                  instantly, including support for 8K resolution on supported
+                  Use AI algorithms to upscale your videos
+                  instantly, including support for 8K and above resolution on supported
                   hardware. Whether it's a short clip, a memos reel, an old or
                   new TV show, this app transforms your videos into vibrant,
                   HD-quality versions.
