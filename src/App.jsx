@@ -532,7 +532,7 @@ function App() {
               </svg>{" "}
             </a>{" "}
             <span class="mb-3 mb-md-0 text-body-secondary">
-              <h5>Support</h5>
+              <h5>Contact</h5>
               rewind.develop@gmail.com
             </span>{" "}
           </div>{" "}
